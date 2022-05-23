@@ -33,3 +33,24 @@ header {
 .left {
     nav-left: auto;
 }
+/*inizio tabella*/
+.table-head {
+    background-color: rgb(77, 124, 255);
+    font-size: 30px;
+    color: aliceblue;
+
+}
+.table-body {
+    font-size: 17px;
+    font-weight: bolder;
+
+}
+#riga1 {
+    background-color: rgb(77, 124, 255);
+}
+#riga3 {
+    background-color: rgb(77, 124, 255);
+
+}
+
+     
