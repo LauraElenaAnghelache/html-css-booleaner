@@ -23,3 +23,13 @@ header {
     height: 250px;
 
 }
+.little-font {
+    font-size: 10px;
+}
+.yellow-color {
+    background-color: rgb(247, 247, 29);
+
+}
+.left {
+    nav-left: auto;
+}
