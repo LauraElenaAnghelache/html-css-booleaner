@@ -9,3 +9,17 @@ header {
 
 }
 /* fine stile header*/
+/* inizio main*/
+.gray-color {
+    color: rgb(116, 116, 116);
+}
+.blue-color {
+    color: rgb(26, 221, 221);
+}
+.little-font {
+    font-size: 10px;
+}
+.photo {
+    height: 250px;
+
+}
